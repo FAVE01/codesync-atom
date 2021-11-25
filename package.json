@@ -30,7 +30,7 @@
     "diff-match-patch": "^1.0.5",
     "express": "^4.17.1",
     "form-data": "^4.0.0",
-    "ignore": "^5.1.8",
+    "ignore": "^5.1.9",
     "isbinaryfile": "^4.0.8",
     "js-yaml": "^3.14.1",
     "jwt-decode": "^3.1.2",
